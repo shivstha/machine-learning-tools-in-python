@@ -1,1 +1,5 @@
-# machine-learning-tools-in-python
+# Machine Learning Tools In Python
+
+- Numpy
+- Matplotlib
+- Pandas
